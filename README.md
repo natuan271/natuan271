@@ -36,10 +36,8 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/css3-9-1175237.png" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-226077.png" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://ionicframework.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ionic_icon_130522.png" alt="ionic" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 </p>
 
